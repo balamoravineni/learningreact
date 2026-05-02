@@ -1,0 +1,24 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "This is learning react app",
+  "keywords": [],
+  "homepage": "https://github.com/balamoravineni/learningreact#readme",
+  "bugs": {
+    "url": "https://github.com/balamoravineni/learningreact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balamoravineni/learningreact.git"
+  },
+  "license": "ISC",
+  "author": "Balakrishna M",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
